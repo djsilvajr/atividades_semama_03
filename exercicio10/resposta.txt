@@ -1,0 +1,5 @@
+1- um Json é um conjunto de dados no qual nos mostra caracteristicas atribuidas a um determinado objeto
+
+2- O metodo JSON.parse transforma uma string com formato json em um objeto json no javascript
+
+3- O metodo JSON.stringfy transforma o json do javasript em uma simples string que pode ser usada para salvar em banco de dados ou compartilhar informação de maneira mais facil
